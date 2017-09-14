@@ -1,0 +1,45 @@
+body {
+    background-image: url("plank.jpg");
+    background-size: cover ;
+}
+
+p {
+    color: #FFFFFF;
+    width: 750px;
+    font-size: 19px;
+}
+.product{
+    color: #ffffff;
+    font-size: 19px;
+}
+h1 {
+    color: white
+}
+.balk{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.test {
+    float: left;
+}
+
+.test a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.test a:hover {
+    background-color: #111;
+}
+
+.ingrediënten {
+    float: right;
+    float: top;
+}
