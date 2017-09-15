@@ -42,3 +42,8 @@ h1 {
 .ingrediënten {
     float: right;
 }
+
+.bereiding{
+    color: white;
+    font-size: 19px;
+}
