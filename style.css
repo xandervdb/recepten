@@ -18,10 +18,10 @@ p {
     text-align: center;
     bottom: -100px;
     position: absolute;
-    right: 600px;
+    right: 625px;
 }
 h1 {
-    color: #000000;
+    color: #FFFFFF;
     text-align: center;
     
 }
@@ -46,14 +46,20 @@ h1 {
     background-color: #000000;
 }
 .ingrediënten {
-position: absolute;
-bottom: 0px;
-right: 0px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
 }
 .bereiding{
     color: #000000;
     font-size: 19px;
     list-style-type: none;
+    padding: 10px;
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    left: 500px;
+    bottom: 115px;
 }
 #smokey{ 
     position: absolute;
@@ -61,12 +67,12 @@ right: 0px;
     right: 0px;
 }
 #text{
-    text-align: center;
-    bottom: 400px;
-    right: 400px;
-
-
+    padding: 10px;
+    width: 250px;
+    height: 200px;
     position: absolute;
+    left: 600px;
+    bottom: 350px;
 }
 ol{
     text-align: center;
@@ -77,4 +83,17 @@ ol{
 #berg{
     position: absolute;
     top: 200px;
+}
+p {
+    padding: 10px;
+    width: 250px;
+    height: 200px;
+    position: absolute;
+    left: 600px;
+    bottom: 250px;
+}
+
+ol.bereiding li {
+    font-style: italic;
+}
     
